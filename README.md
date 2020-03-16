@@ -1,2 +1,2 @@
 # images.letttgaco.cn
-github图床
+Github图床
